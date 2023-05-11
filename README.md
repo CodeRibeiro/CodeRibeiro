@@ -23,12 +23,13 @@
 
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeRibeiro&show_icons=true)
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRibeiro&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeRibeiro&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-pedroribeirocode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pedroribeirocode/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pedroribeirocode/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:pedroribeiro.costa001@gmail.com
-)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/CodeRibeiro?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/CodeRibeiro))
