@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CodeRibeiro/CodeRibeiro/assets/122948153/78ea5fdd-9006-4b8d-a05f-61726b5fee5d" alt="Descrição da imagem">
+  <img src="https://github.com/CodeRibeiro/CodeRibeiro/assets/122948153/78ea5fdd-9006-4b8d-a05f-61726b5fee5d" alt="Descrição da imagem" width="100%" height="368">
 </p>
 
 
