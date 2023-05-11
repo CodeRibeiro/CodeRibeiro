@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="[URL do GIF](https://github.com/CodeRibeiro/CodeRibeiro/blob/main/1d764c22-f1f0-4879-a841-0e4b6a33ad2f.gif?raw=true)" width="100%" height="368">
+  <img src="https://github.com/CodeRibeiro/CodeRibeiro/assets/122948153/78ea5fdd-9006-4b8d-a05f-61726b5fee5d" alt="Descrição da imagem">
 </p>
+
+
+<!-- 
+![1d764c22-f1f0-4879-a841-0e4b6a33ad2f](https://github.com/CodeRibeiro/CodeRibeiro/assets/122948153/78ea5fdd-9006-4b8d-a05f-61726b5fee5d)
+
+
+  <img src="[URL do GIF](https://github.com/CodeRibeiro/CodeRibeiro/blob/main/1d764c22-f1f0-4879-a841-0e4b6a33ad2f.gif?raw=true)"  -->
+
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
