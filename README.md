@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[URL do GIF](https://github.com/CodeRibeiro/CodeRibeiro/blob/main/1d764c22-f1f0-4879-a841-0e4b6a33ad2f.gif?raw=true)" width="480" height="270">
+</p>
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## 🚀 Olá, meu nome é <strong>{Pedro Ribeiro}!</strong>
