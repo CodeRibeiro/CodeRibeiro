@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL do GIF](https://github.com/CodeRibeiro/CodeRibeiro/blob/main/1d764c22-f1f0-4879-a841-0e4b6a33ad2f.gif?raw=true)" width="100%" height="270">
+  <img src="[URL do GIF](https://github.com/CodeRibeiro/CodeRibeiro/blob/main/1d764c22-f1f0-4879-a841-0e4b6a33ad2f.gif?raw=true)" width="100%" height="368">
 </p>
 
 
