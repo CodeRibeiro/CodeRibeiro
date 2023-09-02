@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando Desenvolvimento de Software a Alura/Latam
 - 🌱 Estou aprendendo JavaScript e ReactJs
-- ⚡ Curiosidade: Sou um jovem entusiasta em tecnologia, amante de cultuta POP(HQs, Mangás, Novels e Música) e um tanto Gamer.
+- ⚡ Curiosidade: Sou um jovem entusiasta em tecnologia, amante de cultura POP(HQs, Mangás, Novels e Música) e um tanto Gamer.
 
 ## Ferramentas e Tecnologias
 
