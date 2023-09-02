@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou estudando Desenvolvimento de Software a Alura/Latam
-- 🌱 Atualmente estou aprendendo JavaScript e ReactJs
+- 🌱 Estou aprendendo JavaScript e ReactJs
 - ⚡ Curiosidade: Sou um jovem entusiasta em tecnologia, amante de cultuta POP(HQs, Mangás, Novels e Música) e um tanto Gamer.
 
 ## Ferramentas e Tecnologias
